@@ -13,5 +13,6 @@ def cuando_realizo_la_suma(step):
 	
 @step(u'entonces el resultado que obtengo es "([^"]*)"')
 def entonces_el_resultado_que_obtengo_es_group1(step, esperado):
-	assert esperado == world.res, 'El resultado '+esperado+' no es '+world.res
+	assert esperado == world.res, 'El resultado '
+		+esperado+' no es '+world.res
 	
