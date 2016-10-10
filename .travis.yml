@@ -9,3 +9,5 @@ python:
 script: 
   - "cd calculadora"
   - "lettuce tests/"
+
+
