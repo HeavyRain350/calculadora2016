@@ -3,4 +3,8 @@ pep8
 autopep8
 mccabe
 coverage
+<<<<<<< HEAD
 lettuce
+=======
+lettuce
+>>>>>>> 143b9cbf4a74cddc8168b387e377b1fa5e187f3c
